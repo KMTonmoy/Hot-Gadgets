@@ -7,3 +7,35 @@
 body {
     font-family: "Poppins", sans-serif;
 }
+
+
+.headerText {
+    color: rgb(16, 15, 15);
+    font-size: 65px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+.headerParagraph {
+    color: rgb(112, 111, 111);
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.bannerInp input {
+    border: 1px solid gray;
+    margin-right: -30px;
+    border-radius: 8px;
+    outline: none;
+    padding-left: 20px;
+}
+
+.bannerInp button {
+    background-color: #0D6EFD;
+    border-radius: 8px;
+    font-size: 18px;
+    color: #F4F4F4;
+    width: 150px;
+    height: 54px;
+    margin-right: 20px;
+}
